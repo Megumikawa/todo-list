@@ -1,7 +1,6 @@
 # To Do List
 
-<img align="right" src="")
-">
+<img align="right" >
 
 This is Simple Todo List App for practicing React.
 Check oud the [Demo](https://todo-list-react-app-practice.herokuapp.com/).
