@@ -1,6 +1,6 @@
 # To Do List
 
-<img align="right" src="![ezgif com-gif-maker](https://user-images.githubusercontent.com/55644602/144761379-32a0b505-815b-4ded-b6e1-69f4af3c83b4.gif)
+<img align="right" src="")
 ">
 
 This is Simple Todo List App for practicing React.
