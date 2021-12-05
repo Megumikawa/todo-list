@@ -137,3 +137,8 @@ select {
   transform: scale(1.5);
 }
 */
+@media only screen and (max-width:599px) {
+  body {
+    width: 20em;
+  }
+  }
